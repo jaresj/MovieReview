@@ -1,16 +1,14 @@
 # MovieReviews
 
-Create public and private reviews of movies
+A webpage designed for the creation of public and private movie reviews using Google OAuth
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** Work in progress (finding new hosting site after heroku took away free tier)
 
 ![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, Node.js, Express, MongoDB with Google OAuth for authentication
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
 ## Optimizations
 
